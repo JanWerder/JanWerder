@@ -2,7 +2,7 @@ Hi there 👋 I'm Jan.
 
 Here are some of my private projects:
 
- * [SeriesHue - Search for a TV series and get a heatmap of average IMDb ratings for each episode](https://www.serieshue.app/). (Repo: [JanWerder/serieshue](https://github.com/JanWerder/serieshue))
+ * SeriesHue - Search for a TV series and get a heatmap of average IMDb ratings for each episode. (Repo: [JanWerder/serieshue](https://github.com/JanWerder/serieshue))
  * dronespots.eu - Drone Spots in Europe. (Repo: [JanWerder/dronespots](https://github.com/JanWerder/dronespots))
  * [awesome-love2d - A categorized community-driven collection of high-quality, awesome LÖVE libraries, projects, and resources](https://github.com/love2d-community/awesome-love2d).
  * [vscode-love-launcher - A Löve Launcher Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher). (Repo: [JanWerder/vscode-love-launcher](https://github.com/JanWerder/vscode-love-launcher))
